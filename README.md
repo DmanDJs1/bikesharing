@@ -2,8 +2,9 @@
 
 ## Source files: 
 
-Please click here for dashboard [link to dashboard](https://public.tableau.com/app/profile/douglas.cano/viz/ChallengeModule_14/CheckoutTimesbyGender)
-Please click here for Story [link to story](https://public.tableau.com/app/profile/douglas.cano/viz/NYC_Citibike_ChallengeMod14/Story1?publish=yes)
+- Please click here for dashboard [link to dashboard](https://public.tableau.com/app/profile/douglas.cano/viz/ChallengeModule_14/CheckoutTimesbyGender)
+
+- Please click here for Story [link to story](https://public.tableau.com/app/profile/douglas.cano/viz/NYC_Citibike_ChallengeMod14/Story1?publish=yes)
 
 ## Overview:
 
