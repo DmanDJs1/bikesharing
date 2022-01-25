@@ -23,7 +23,7 @@ For this challenge we were asked to put together a presentation for a business p
 
 ![image](https://github.com/DmanDJs1/bikesharing/blob/main/Images/2.jpg?raw=true)
 
-3) The following graph shows the length of time that the bikes were checked out by all riders. checked out for all riders.
+3) The following graph shows the length of time that the bikes were checked out by all riders.
 
 ![image](https://github.com/DmanDJs1/bikesharing/blob/main/Images/3.jpg?raw=true)
 
