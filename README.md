@@ -1,7 +1,7 @@
 # NYC_Citibike_Challenge
 
 ## Source files: 
-	* Please click here for dashboard [link to dashboard] (https://public.tableau.com/app/profile/douglas.cano/viz/ChallengeModule_14/CheckoutTimesbyGender)
+	* Please click here for dashboard ![link to dashboard](https://public.tableau.com/app/profile/douglas.cano/viz/ChallengeModule_14/CheckoutTimesbyGender)
 	* Please click here for Story [!link] ("https://public.tableau.com/app/profile/douglas.cano/viz/NYC_Citibike_ChallengeMod14/Story1?publish=yes")
 
 ## For this challenge we were asked to put together a presentation for a business proposal to attain investment for a bike-sharing program in Des Moines Iowa. We utilized data from NYC to find trends that would help convince our investors that a bike-sharing business could also be a viable and sound business in Des Moines. To solidify and win the proposal, one of the key stakeholders requested to see a bike trip analysis that would show trends based on:
