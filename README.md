@@ -27,15 +27,15 @@ For this challenge we were asked to put together a presentation for a business p
 
 ![image](https://github.com/DmanDJs1/bikesharing/blob/main/Images/3.jpg?raw=true)
 
-4) This graph show the length of time that bikes are checked out for each gender.
+4) This graph shows the length of time that bikes are checked out for each gender.
 
 ![image](https://github.com/DmanDJs1/bikesharing/blob/main/Images/4.jpg?raw=true)
 
-5) This graph the number of bike trips by weekday for each hour of the day as a heatmap. The darker the color shows the higher concentration of bike rentals. 
+5) This graph shows the number of bike trips by weekday for each hour of the day as a heatmap. The darker the color shows the higher concentration of bike rentals. 
 
 ![image](https://github.com/DmanDJs1/bikesharing/blob/main/Images/5.jpg?raw=true)
 
-6) This graphs shows graph the number of bike trips by gender for each hour of each day of the week as a heatmap. Again we see the dominance male riders have over rentals. 
+6) This graphs shows the number of bike trips by gender for each hour of each day of the week as a heatmap. Again we see the dominance male riders have over rentals. 
 
 ![image](https://github.com/DmanDJs1/bikesharing/blob/main/Images/6.jpg?raw=true)
 
