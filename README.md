@@ -1,8 +1,13 @@
 # NYC_Citibike_Challenge
 
 ## Source files: 
+<<<<<<< HEAD
 	* Please click here for dashboard [link to dashboard](https://public.tableau.com/app/profile/douglas.cano/viz/ChallengeModule_14/CheckoutTimesbyGender)
 	* Please click here for Story [link to story](https://public.tableau.com/app/profile/douglas.cano/viz/NYC_Citibike_ChallengeMod14/Story1?publish=yes)
+=======
+	* Please click here for dashboard ![link to dashboard](https://public.tableau.com/app/profile/douglas.cano/viz/ChallengeModule_14/CheckoutTimesbyGender)
+	* Please click here for Story [!link] ("https://public.tableau.com/app/profile/douglas.cano/viz/NYC_Citibike_ChallengeMod14/Story1?publish=yes")
+>>>>>>> 45c1ce383543e1e12f602dbc6160380dd78153d9
 
 ## Overview:
 
@@ -15,8 +20,12 @@ For this challenge we were asked to put together a presentation for a business p
 
 1) The following shows the times that most bikes are being rented. 
 
+<<<<<<< HEAD
 ![image](https://github.com/DmanDJs1/bikesharing/blob/main/Images/1.jpg?raw=true)
 	
+=======
+[!image](https://github.com/DmanDJs1/bikesharing/blob/main/Images/1.jpg?raw=true)
+>>>>>>> 45c1ce383543e1e12f602dbc6160380dd78153d9
 
 2) Here we see who is renting the bikes. The gender breakdown shows that the majority of people using bikes are males.
 
