@@ -13,6 +13,8 @@
 
 1) The following shows the times that most bikes are being rented. 
 
+[!image](https://github.com/DmanDJs1/bikesharing/blob/main/Images/1.jpg?raw=true)
+
 2) Here we see who is renting the bikes. The gender breakdown shows that the majority of people using bikes are males.
 
 3) The following graph shows the length of time that the bikes were checked out by all riders. checked out for all riders.
